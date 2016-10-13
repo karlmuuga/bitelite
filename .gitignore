@@ -2,3 +2,6 @@
 .buildpath
 .project
 .git
+*.gif
+*.png
+*.psd
